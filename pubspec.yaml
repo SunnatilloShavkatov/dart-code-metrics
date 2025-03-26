@@ -15,9 +15,9 @@ platforms:
   macos:
 
 dependencies:
-  analyzer: ">=5.1.0 <5.14.0"
-  analyzer_plugin: ">=0.11.0 <0.12.0"
-  ansicolor: ^2.0.3
+  analyzer:
+  analyzer_plugin:
+  ansicolor:
   args: ^2.7.0
   collection:
   crypto: ^3.0.6
